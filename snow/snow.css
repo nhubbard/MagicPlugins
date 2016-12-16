@@ -1,6 +1,6 @@
 body {
 	background-color: #6b92b9;
-	background-image: url("http://i.imgur.com/BiSmXaq.png"), url("http://i.imgur.com/XHuy0NJ.png"), url("http://i.imgur.com/okpRxJU.png");
+	background-image: url("images/BiSmXaq.png"), url("images/XHuy0NJ.png"), url("images/okpRxJU.png");
 	animation: snow 120s linear infinite;
 	-webkit-transform: translate3d(0, 0, 0);
 	-webkit-backface-visibility: hidden;
